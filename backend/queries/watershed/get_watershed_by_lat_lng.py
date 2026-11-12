@@ -1,0 +1,58 @@
+get_watershed_by_lat_lng_query = """
+	WITH pt_raw AS
+	(
+		SELECT
+			ST_SetSRID(ST_Point(%(lng)s::numeric, %(lat)s::numeric), 4326) AS loc
+	), pt AS (
+		-- Filter on the BC watershed regions
+        SELECT
+			loc
+        FROM
+			pt_raw
+        JOIN
+			bcwat_lic.water_licence_coverage wlc
+        ON
+			ST_INTERSECTS(wlc.geom4326, pt_raw.loc)
+    )
+	SELECT
+		root.watershed_feature_id_foundry::TEXT AS wfi,
+		ST_AsGeoJson(up.upstream_geom_4326_z12)::json as geojson,
+		SUBSTRING(root.fwa_watershed_code, 1, POSITION('-000000' IN root.fwa_watershed_code)-1) AS fwa_code,
+		CASE
+			WHEN root.lake_name IS NOT null THEN root.lake_name
+			WHEN up.gnis_name IS NOT NULL THEN up.gnis_name
+			WHEN p.gnis_name IS NOT null THEN p.gnis_name
+			ELSE 'Unnamed Basin'
+		END AS name
+	FROM
+		bcwat_ws.fwa_fund root
+	JOIN
+		(
+			SELECT
+				CASE
+			WHEN ST_Closestpoint(streams.geom4326, pt.loc) IS NULL THEN pt.loc
+			ELSE ST_Closestpoint(streams.geom4326, pt.loc)
+		END AS pt_on_line_geom,
+				streams.gnis_name
+			FROM
+				pt
+			LEFT JOIN
+				bcwat_ws.fwa_stream_name streams
+			ON
+				ST_DWithin(streams.geom4326, pt.loc, 0.0001)
+			ORDER BY
+				stream_magnitude desc, ST_Distance(streams.geom4326, pt.loc) ASC
+			LIMIT 1
+		) p
+	ON
+		ST_DWithin(root.geom4326, p.pt_on_line_geom, 0.0001)
+	JOIN
+		bcwat_ws.ws_geom_all_report up
+	ON
+		up.watershed_feature_id = root.watershed_feature_id_foundry
+	WHERE
+		root.in_study_area
+	ORDER BY
+		ST_Distance(root.geom4326, p.pt_on_line_geom)
+	LIMIT 1;
+"""
