@@ -1,0 +1,3174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -123.8916,
+          48.7714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 28406,
+        "name": "Site 22 Cowichan Geochem",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E298141",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2014
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.491931,
+          49.017654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 28544,
+        "name": "Fvgmp 8th Ave and 264th St.; Langley",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E218049 (Depth: 15.85 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1992,
+          1993
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.342877,
+          49.015859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 31426,
+        "name": "Fvgmp 31822 Huntington Road; Matsqui",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E207113 (Depth: 31.09 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1992,
+          1993
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -125.0542,
+          49.6411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 31435,
+        "name": "Rdcs Pidgeon Lake Lf (MR5050) MW 13",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E254585",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2002
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -129.9977,
+          58.43948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 31439,
+        "name": "Tatcho Street, Lot 18/19 (RCMP 8) Water System",
+        "net": "Northern Health Authority",
+        "nid": "60811",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2006,
+          2007,
+          2010,
+          2011
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.6581,
+          48.7589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20854,
+        "name": "Domans Hogfuel Dump -77' Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E206487",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1985
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.6158,
+          52.5469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20858,
+        "name": "Mt. Polley (Pe11678) GW96-6",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E229689",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2004,
+          2005
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.437892,
+          50.90915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20863,
+        "name": "Shuswap Lake Park Tap Near Site #19",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E292398",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2011,
+          2012
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.8163,
+          50.2497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20864,
+        "name": "Nakusp; Village Of; Groundwater (PE-1238)",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E221242",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1997,
+          1999,
+          2000,
+          2001,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2013,
+          2016,
+          2017,
+          2018,
+          2019
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.371054,
+          49.016609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20882,
+        "name": "Matsqui Nitrate Study;Site A-Hamm RD-35'Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E207477 (Depth: 25 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2006,
+          2008
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.4418,
+          50.9023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20884,
+        "name": "Scotch Ck #2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E225749 (Depth: 80 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1997
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.46942,
+          50.8706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20886,
+        "name": "Blind Bay/Sorrento Loc-17-Sw",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E294534",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.8228,
+          49.2064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22216,
+        "name": "Obs Well 75 - Keremeos (6th Ave & 5th St.)",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "1401030",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1987,
+          1991,
+          1994,
+          2001,
+          2009,
+          2010,
+          2016,
+          2018
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -126.63333,
+          54.41667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 34795,
+        "name": "Shady Rest RV Park Water System",
+        "net": "Northern Health Authority",
+        "nid": "60700",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2006
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -125.75166,
+          54.264729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20910,
+        "name": "Burns Lake Transfer Station MW3",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E243103",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2000
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.338602,
+          50.238902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20923,
+        "name": "Vernon Spray Irrigation Well 107",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "0500712",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1979,
+          1980,
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.319176,
+          48.877134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26488,
+        "name": "Galiano Lodge 134 Madrona Dr. Galiano Isl",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E222182",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1995
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.0844,
+          50.6278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20940,
+        "name": "Radium Hotsprings (PE-8953) Piezometer 90-5",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E243625",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2004,
+          2005,
+          2006,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.285178,
+          49.024304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20943,
+        "name": "City of Abbotsford Mcconnel Well; 33899 Mcconnell Rd",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E219596",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2012
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.82143,
+          53.96272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20948,
+        "name": "Caledonia Mhp",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E266888 (Depth: 0.4 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2007
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.548183,
+          49.070647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20951,
+        "name": "Fvgmp 3820 244th Street; Langley",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E218028",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1992
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -127.08341,
+          54.17852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20954,
+        "name": "RA176-Gw",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E307334",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2016
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -129.999999,
+          59.999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20962,
+        "name": "Two Mile Subdivision Well #4",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E263984",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2006
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.5262,
+          49.2466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20975,
+        "name": "Bore Hole 2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E223097",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2009,
+          2011,
+          2012,
+          2013
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.211153,
+          50.963586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20977,
+        "name": "Celista/Magna Bay Cmb SW-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E294587",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.668194,
+          48.970472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20986,
+        "name": "Agwmn Site 2 - Thetis Island Aquifer #729",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E272485",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2008,
+          2010,
+          2011,
+          2012
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.11922148198849,
+          55.71304303431649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 20988,
+        "name": "WTN 2267",
+        "net": "BC ENV - Well Report Water Chemistry",
+        "nid": "231",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1969
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3058,
+          49.2401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21008,
+        "name": "33197 Smith Street; Mission Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E248253",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2002
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.12491,
+          52.102913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21009,
+        "name": "Domestic Well Id Plate 12880",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E261425",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2005,
+          2006
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -129.65,
+          55.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 23504,
+        "name": "Prince Rupert Landfill MW4d",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E265323",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2007
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.13950373108705,
+          56.30328098932925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 23516,
+        "name": "WTN 22142",
+        "net": "BC ENV - Well Report Water Chemistry",
+        "nid": "227",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1970
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.32718,
+          49.00274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26554,
+        "name": "Abb07b",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E316297",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -129.0489,
+          55.2319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26557,
+        "name": "PR-11936 Groundwater Well Bh 98-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E251432",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2003,
+          2004
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.316305,
+          49.223195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26562,
+        "name": "Fvgmp Dewdney Trunk Road; Mission Site 1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E217928 (Depth: 46.03 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1992,
+          1993
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.7881,
+          52.6717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26566,
+        "name": "Qr Gold (PE12601) MW5a Fwpond Surface Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E221648",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1995,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.2429,
+          49.14
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26567,
+        "name": "Rdck Landfill Well 81-3; Salmo",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "0200584 (Depth: 5.5 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1983,
+          1984
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.5401,
+          49.125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21017,
+        "name": "Faggetter; Well @ 144 Ashnola R Road",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E243414",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2000,
+          2001
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.777,
+          48.7655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21023,
+        "name": "Site 32 Cowichan Geochem",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E297933",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2014
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.68356,
+          57.23336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21033,
+        "name": "K & L Water Service - Unit #W062 Western Star Truck",
+        "net": "Northern Health Authority",
+        "nid": "60388",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2011
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.2,
+          50.55
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26666,
+        "name": "Hvc PE376 Ll-Dam Monitoring Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E219909",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.1747,
+          52.3046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 2213,
+        "name": "Gibe-D3-2837.1 Ft",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E244020",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -129.05,
+          55.2303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21056,
+        "name": "PR-11936 Groundwater Well BH98-1b",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E251431",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2003,
+          2004
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.361704,
+          49.008741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21069,
+        "name": "339 Townline Rd.; Matsqui - 84' Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E207088",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1987,
+          1989,
+          1990,
+          1991,
+          1993,
+          1994
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.9213,
+          49.1139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21092,
+        "name": "City of Chilliwack (MR-101798) MW93b-4 Groundwater Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E266147",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2014
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.663611,
+          48.995278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26811,
+        "name": "Well 1 Lot 158 Klahowya Road Thetis Island",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E272752",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2008
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.549822,
+          50.644599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26815,
+        "name": "Domestic Well ID57238 100224 New Gold R9",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E307980",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2017,
+          2018,
+          2019
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.4156,
+          49.0122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 26826,
+        "name": "Grand Forks Well 5605 Darcy Rd",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E247266",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2001
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.289397,
+          49.016957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21097,
+        "name": "Obs Well 008 - Abbotsford (Vye Rd E of Mccallum Rd)",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "1401059 (Depth: 26 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1989
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.58578626090343,
+          55.847520010227726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21099,
+        "name": "WTN 17935 Nov 1967",
+        "net": "BC ENV - Well Report Water Chemistry",
+        "nid": "163",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1967
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.341651,
+          49.017101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21122,
+        "name": "Obs Well 002 - Abbotsford (Airport; Huntingdon Rd W of Clearbrook Rd)",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "1401057 (Depth: 20 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1988
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.75779,
+          49.54361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21131,
+        "name": "Obs Well 508 - Tulameen",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E329792",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2022
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.11,
+          54.11
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21137,
+        "name": "Site 132",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E267013",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2008
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.0198,
+          49.3522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 21150,
+        "name": "Nickel Plate Mine (PE07613) Piezometer P41",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E250417",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.1759,
+          52.3044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 37756,
+        "name": "Gibe-C3-2855 Ft",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E244009",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.344639,
+          49.051428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22222,
+        "name": "Clearbrook Waterworks District Well 4-54; 2713 Janzen St Abbotsford",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E218021 (Depth: 31.4 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1992,
+          1993
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.359925,
+          49.031292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 39468,
+        "name": "Fvgmp 32763 Marshall Road; Mission",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E218016 (Depth: 26.82 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1992,
+          1993
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -124.625194,
+          49.534806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 39470,
+        "name": "Agwmn Site 6 - Hornby Island Aquifer #435",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E271865",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2008,
+          2009,
+          2010
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.897389,
+          49.089043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 39475,
+        "name": "Fvgmp 4840 Southside Road; Cultus Lake",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E218106",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1992,
+          1993
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.671113,
+          49.585629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22228,
+        "name": "City of Cranbrook MW001-M Gw Monitoring Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E325971",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2022,
+          2023
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.11,
+          54.11
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 42395,
+        "name": "Site 137",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E267018",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2008
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.68997359347892,
+          55.780871249336286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 3167,
+        "name": "WTN 11736 (F)",
+        "net": "BC ENV - Well Report Water Chemistry",
+        "nid": "87",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1969
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.58120716448315,
+          55.82299128358593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22233,
+        "name": "WTN 1795",
+        "net": "BC ENV - Well Report Water Chemistry",
+        "nid": "171",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1970
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.59135,
+          53.42412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22235,
+        "name": "Canyon Creek Campground",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E266973",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2008
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.6833,
+          48.7722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22246,
+        "name": "Vancouver Island Hatchery",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E219126",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1993
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -128.699334,
+          54.034851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22262,
+        "name": "Km Lng Landfill Permit 1650 MW16-01a",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E334343",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.867232,
+          49.095351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22268,
+        "name": "Rdn-Swc Site 32",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E285568",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2011
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.65422,
+          53.76267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22270,
+        "name": "MamaYeh RV Park",
+        "net": "Northern Health Authority",
+        "nid": "60440",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2008
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.1567,
+          49.69
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 42791,
+        "name": "Squ PE138 N of Pond",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "0301204",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1974,
+          1975,
+          1976,
+          1977,
+          1978,
+          1979,
+          1980,
+          1981
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.475,
+          52.995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 42797,
+        "name": "Quesnel Lf (PR 3132) Cement Plant",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E222770",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -126.525,
+          54.4419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 42798,
+        "name": "Mr-8856 Knockholt Landfill Well BH-4",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E228921",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1997,
+          2000,
+          2003,
+          2004,
+          2006
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.2452,
+          49.138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47370,
+        "name": "Rdck Landfill Flooded Well; Salmo",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E206153 (Depth: 0.5 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1998
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.248972,
+          50.350027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 3787,
+        "name": "Spallumcheen Survey Top1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E262369",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2006,
+          2007
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.474915,
+          49.185389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22285,
+        "name": "Fvgmp 10100 Rolley Crescent; Maple Ridge",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E217962 (Depth: 111 m)",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1993
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -127.2367,
+          50.6102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22296,
+        "name": "Rdmw (PR8490) Monitoring Well Well2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E255223",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          1994,
+          1998,
+          1999,
+          2000,
+          2001
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.74706,
+          50.12547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22301,
+        "name": "Merritt (Near Airport)",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E317012",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2019,
+          2021,
+          2024
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.2419,
+          50.3933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 22304,
+        "name": "Coa Stp (Me 12213) South Area MW #99-4 (B)",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E244723",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.81552,
+          55.37892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47772,
+        "name": "Conuma - Brule Mine PE17679 ? Groundwater Well - BM 13-07a",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E309270",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.85926,
+          55.41098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47773,
+        "name": "Conuma - Brule Mine PE17679 ? Groundwater Well - BM 13-01b",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E309260",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8098,
+          55.38488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47778,
+        "name": "Conuma - Brule Mine PE17679 ? Groundwater Well - BM 13-04b",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E309265",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.897364,
+          49.119936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47784,
+        "name": "Regional District of Nanaimo (1714) MW36-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322062",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.905037,
+          49.121296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47785,
+        "name": "Regional District of Nanaimo (1714) MW30-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322091",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.902977,
+          49.120424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47786,
+        "name": "Regional District of Nanaimo (1714) MW34-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322073",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.906867,
+          49.118668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47787,
+        "name": "Regional District of Nanaimo (1714) MW29-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322014",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.906038,
+          49.118808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47788,
+        "name": "Regional District of Nanaimo (1714) MW33-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322016",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.903771,
+          49.121088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47789,
+        "name": "Regional District of Nanaimo (1714) MW13-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322076",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.895541,
+          49.115323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47790,
+        "name": "Regional District of Nanaimo (1714) MW20-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322055",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.907879,
+          49.122484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47791,
+        "name": "Regional District of Nanaimo (1714) MW12-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E321979",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.907901,
+          49.121006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47792,
+        "name": "Regional District of Nanaimo (1714) UT-01",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E321980",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.901801,
+          49.12039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47793,
+        "name": "Regional District of Nanaimo (1714) MW35-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322071",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.903798,
+          49.117765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47794,
+        "name": "Regional District of Nanaimo (1714) MW28",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322017",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.895244,
+          49.120791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47795,
+        "name": "Regional District of Nanaimo (1714) MW17-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322061",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.905115,
+          49.121129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47797,
+        "name": "Regional District of Nanaimo (1714) MW27",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322077",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.906442,
+          49.121876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47798,
+        "name": "Regional District of Nanaimo (1714) MW23",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322093",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.892623,
+          49.11894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47800,
+        "name": "Regional District of Nanaimo (1714) MW18-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322058",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.895927,
+          49.116748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47801,
+        "name": "Regional District of Nanaimo (1714) MW19-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322054",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.903778,
+          49.121074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47802,
+        "name": "Regional District of Nanaimo (1714) MW13-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322075",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.906868,
+          49.118677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47803,
+        "name": "Regional District of Nanaimo (1714) MW29-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322013",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.899732,
+          49.116363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47804,
+        "name": "Regional District of Nanaimo (1714) MW6-3",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322018",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.895512,
+          49.115312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47806,
+        "name": "Regional District of Nanaimo (1714) MW20-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322056",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.892623,
+          49.11894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47807,
+        "name": "Regional District of Nanaimo (1714) MW18-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322059",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.907845,
+          49.122482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47809,
+        "name": "Regional District of Nanaimo (1714) MW12-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E321978",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.901801,
+          49.12039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47810,
+        "name": "Regional District of Nanaimo (1714) MW35-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322072",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.906952,
+          49.119623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47811,
+        "name": "Regional District of Nanaimo (1714) MW14-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322012",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.902977,
+          49.120424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47812,
+        "name": "Regional District of Nanaimo (1714) MW34-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322074",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.897364,
+          49.119936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47813,
+        "name": "Regional District of Nanaimo (1714) MW36-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322063",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.90501,
+          49.121286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47814,
+        "name": "Regional District of Nanaimo (1714) MW30-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322092",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.895233,
+          49.120766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47817,
+        "name": "Regional District of Nanaimo (1714) MW17-1a",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322060",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.906043,
+          49.118818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47818,
+        "name": "Regional District of Nanaimo (1714) MW33-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E322015",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8009,
+          52.6662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47819,
+        "name": "MW21-07 West Zone North Lobe Pit Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E327919",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8016,
+          52.6641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47821,
+        "name": "MW21-08 West Zone Pit Well",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E327920",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.895711,
+          49.117427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47823,
+        "name": "Regional District of Nanaimo (1714) MW37-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E333656",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.895558,
+          49.117486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47824,
+        "name": "Regional District of Nanaimo (1714) MW37-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E333654",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.89894,
+          49.120191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47830,
+        "name": "Regional District of Nanaimo (1714) MW38-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E333658",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.895653,
+          49.114243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47836,
+        "name": "Regional District of Nanaimo (1714) MW39-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E333660",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.898967,
+          49.12019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47837,
+        "name": "Regional District of Nanaimo (1714) MW38-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E333657",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.510677,
+          49.046398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47848,
+        "name": "Rdck (MR-16913) Creston Compost Facility MW-14",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E335963",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.715469,
+          49.489753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47898,
+        "name": "Scrd Sechelt Landfill (106060) MW-1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336244",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.5497,
+          50.9033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47903,
+        "name": "MWr-100140 Cottonwood Cove Campground - MW1",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E334884",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.709203,
+          49.488445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47922,
+        "name": "Scrd Sechelt Landfill (106060) MW-22-03",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336261",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.715434,
+          49.489207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47944,
+        "name": "Scrd Sechelt Landfill (106060) MW2-21",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336263",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.710573,
+          49.489286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47953,
+        "name": "Scrd Sechelt Landfill (106060) MW-22-02",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336260",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.2768,
+          50.7704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47956,
+        "name": "Sunnybrae Bible Camp - MWr 5530 - MW2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336842",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.276,
+          50.7704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 47979,
+        "name": "Sunnybrae Bible Camp - MWr 5530 - MW4",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336844",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.710261,
+          49.489293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48079,
+        "name": "Scrd Sechelt Landfill (106060) MW-13-4",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336256",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.5479,
+          50.9004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48115,
+        "name": "MWr-100140 Cottonwood Cove Campground - MW3",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E334885",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -130.3824,
+          59.8967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48147,
+        "name": "11-01s",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E335745",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.715441,
+          49.489553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48148,
+        "name": "Scrd Sechelt Landfill (106060) MW24-01",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336264",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.506008,
+          49.048016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48150,
+        "name": "Rdck (MR-16913) Creston Compost Facility MW-12",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E335961",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.505175,
+          49.046447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48167,
+        "name": "Rdck (MR-16913) Creston Compost Facility MW-11",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E335960",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.713104,
+          49.487589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48208,
+        "name": "Scrd Sechelt Landfill (106060) MW-13-2",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336254",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2024,
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.5488,
+          50.9012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48249,
+        "name": "MWr-100140 Cottonwood Cove Campground - MW5",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E334887",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.507036,
+          49.046464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48276,
+        "name": "Rdck (MR-16913) Creston Compost Facility MW-10",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E335959",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -130.50822,
+          56.63756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "area": null,
+        "id": 48308,
+        "name": "Bh-Tsf-01",
+        "net": "BC MoE - Environmental Monitoring System",
+        "nid": "E336946",
+        "status": "Historical",
+        "ty": "Water Quality Groundwater",
+        "yr": [
+          2025
+        ]
+      },
+      "type": "Feature"
+    }
+  ]
+}
